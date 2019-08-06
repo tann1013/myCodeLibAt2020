@@ -38,12 +38,14 @@ class DateUserfullFunctions
                         $jList[] =  $thisCell;
                     }
 
-                    if($j>-6){
+                    if($j>-6 && $j<-1){
                         //上周一
-                        $nowTime = strtotime("$j week");
-                        $monday =  date('Y-m-d', strtotime("-1 monday", $nowTime)); //无论今天几号,-1 monday为上一个有效周未
+                        $nowTime = strtotime("this monday");
+                        $monday =  date('Y-m-d', strtotime("$j monday", $nowTime)); //无论今天几号,-1 monday为上一个有效周未
+                        //dd($j, date('Y-m-d H:i:s', $nowTime), $monday);
+
                         //上周日
-                        $sunday = date('Y-m-d', strtotime("sunday", $nowTime)); //上一个有效周日,同样适用于其它星期
+                        $sunday = date('Y-m-d', strtotime("$j sunday", $nowTime)); //上一个有效周日,同样适用于其它星期
                         $cell = [
                             'monday' => $monday,
                             'sunday' => $sunday,
@@ -86,8 +88,6 @@ class DateUserfullFunctions
                         $jList[] =  $cell;
                     }
                 }
-
-
             }
         }
         return $jList;

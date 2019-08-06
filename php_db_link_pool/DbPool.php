@@ -87,7 +87,7 @@ class DbPool
     }
 }
 
-function linkPond(){
+function linkPonl(){
     //1 读取配置文件
     //$content = file_get_contents($this->path);
     //dd($content);
