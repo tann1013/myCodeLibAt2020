@@ -1,7 +1,6 @@
 <?php
 /**
  * 消息去重中间件v1.0(数组模拟)
- *
  * @author tann1013@hotmail.com
  * @date 2020-09-18
  * @version 1.0
