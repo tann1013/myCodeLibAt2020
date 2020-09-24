@@ -1,6 +1,5 @@
 /**
  * redis单例设计v1
- * Created by PhpStorm.
  * @author tann1013@hotmail.com
  * @date 2020-09-18
  * @version 1.0
