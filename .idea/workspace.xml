@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8218c6f-fc0b-4f1b-b9f3-92a68ed5a3ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/daemon_PHP实现守护进程/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/1-ss.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_long_con/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_long_con/长连接和短链接使用场景.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lumen_v_5_8_projects/Otc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpDateFunctions/DateUserfullFunctions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daemon_PHP实现守护进程/daemon.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
               <folding>
                 <element signature="e#6#67#0#PHP" expanded="true" />
               </folding>
@@ -34,7 +29,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daemon_PHP实现守护进程/说明.txt">
+        <entry file="file://$PROJECT_DIR$/php_tools_自动生成锁工具/code.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php_tools_自动生成锁工具/code_v2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-215" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/output.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/excels/20190130Jani1548837098csv.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/sqls/data.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="44" column="21" selection-start-line="44" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/excel_excel导入导出解决方案/excelFlushExport.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esign_e签宝电子签/EsignApi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2765" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esign_e签宝电子签/EsignValidator.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -50,10 +93,13 @@
         <option value="$PROJECT_DIR$/php_db_link_pool/DbPool.php" />
         <option value="$PROJECT_DIR$/phpDateFunctions/DateUserfullFunctions.php" />
         <option value="$PROJECT_DIR$/daemon_PHP实现守护进程/daemon.php" />
+        <option value="$PROJECT_DIR$/php_long_con/1.php" />
+        <option value="$PROJECT_DIR$/php_long_con/main.php" />
+        <option value="$PROJECT_DIR$/php_long_con/长连接和短链接使用场景.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="748" />
@@ -64,23 +110,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="usefull_php_functions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="usefull_php_functions" type="462c0819:PsiDirectoryNode" />
+              <item name="MyLibFuncBasicAt2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLibFuncBasicAt2020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="usefull_php_functions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="usefull_php_functions" type="462c0819:PsiDirectoryNode" />
-              <item name="daemon_PHP实现守护进程" type="462c0819:PsiDirectoryNode" />
+              <item name="MyLibFuncBasicAt2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLibFuncBasicAt2020" type="462c0819:PsiDirectoryNode" />
+              <item name="php_tools_自动生成锁工具" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyLibFuncBasicAt2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLibFuncBasicAt2020" type="462c0819:PsiDirectoryNode" />
+              <item name="phpDateFunctions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyLibFuncBasicAt2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLibFuncBasicAt2020" type="462c0819:PsiDirectoryNode" />
+              <item name="shells" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,17 +180,18 @@
       <workItem from="1594188805406" duration="55000" />
       <workItem from="1594188873975" duration="14000" />
       <workItem from="1594189031243" duration="109000" />
+      <workItem from="1606184597173" duration="3090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1430000" />
+    <option name="totallyTimeSpent" value="4520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="748" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="747" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27382874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -159,16 +216,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="44" column="21" selection-start-line="44" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel_excel导入导出解决方案/excelFlushExport.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/shells/composer_tools_generate_cmst.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -195,9 +242,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssh-root.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dump.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -205,30 +249,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php_db_link_pool/pics/PHP实现数据库连接池#v1.0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/php_db_link_pool/DbPool.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+        <state relative-caret-position="-746">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
             <element signature="e#6#105#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/daemon_PHP实现守护进程/说明.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1-ss.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_long_con/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssh-root.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retry.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpDateFunctions/DateUserfullFunctions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="-708">
           <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daemon_PHP实现守护进程/说明.txt">
+    <entry file="file://$PROJECT_DIR$/php_long_con/长连接和短链接使用场景.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_tools_自动生成锁工具/code.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_tools_自动生成锁工具/code_v2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/excels/20190130Jani1548837098csv.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/sqls/data.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="44" column="21" selection-start-line="44" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel_excel导入导出解决方案/excelFlushExport.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esign_e签宝电子签/EsignValidator.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esign_e签宝电子签/EsignApi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2765" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daemon_PHP实现守护进程/daemon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding>
             <element signature="e#6#67#0#PHP" expanded="true" />
           </folding>
