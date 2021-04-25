@@ -2,45 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7716cc30-d488-4dfa-a740-eef815cb805a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/usefull_php_functions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RedisClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/RedisClient.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daemon_PHP实现守护进程/daemon.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/daemon_PHP实现守护进程/daemon.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daemon_PHP实现守护进程/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/daemon_PHP实现守护进程/说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataRangeForDayWeekMonth.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/dataRangeForDayWeekMonth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dump.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/dump.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esign_e签宝电子签/EsignApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/esign_e签宝电子签/EsignApi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esign_e签宝电子签/EsignValidator.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/esign_e签宝电子签/EsignValidator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excelFlushExport.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excelFlushExport.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_excel导入导出解决方案/excelFlushExport.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excel_excel导入导出解决方案/excelFlushExport.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excel_python解析sql信息且导出excel文件/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/excels/20190130Jani1548837098csv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excel_python解析sql信息且导出excel文件/excels/20190130Jani1548837098csv.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excel_python解析sql信息且导出excel文件/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excel_python解析sql信息且导出excel文件/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_python解析sql信息且导出excel文件/sqls/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/excel_python解析sql信息且导出excel文件/sqls/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getIdCardNumByBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/getIdCardNumByBase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/myHome_myFirstJavaProjects/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/myHome_myFirstJavaProjects/WEB-INF/.web.swp" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/.web.swp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/myHome_myFirstJavaProjects/WEB-INF/.web.xml.swp" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/.web.xml.swp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/myHome_myFirstJavaProjects/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/myHome_myFirstJavaProjects/WEB-INF/webxml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/webxml.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/myHome_myFirstJavaProjects/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merge_id_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/merge_id_list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpDateFunctions/DateUserfullFunctions.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/phpDateFunctions/DateUserfullFunctions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_db_link_pool/DbPool.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/php_db_link_pool/DbPool.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_db_link_pool/pics/PHP实现数据库连接池#v1.0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/php_db_link_pool/pics/PHP实现数据库连接池#v1.0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_long_con/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/php_long_con/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_long_con/长连接和短链接使用场景.txt" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/php_long_con/长连接和短链接使用场景.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_tools_自动生成锁工具/code.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/php_tools_自动生成锁工具/code.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_tools_自动生成锁工具/code_v2.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/php_tools_自动生成锁工具/code_v2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queueArr.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/queueArr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retry.php" beforeDir="false" afterPath="$PROJECT_DIR$/casesPhper/retry.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shells/composer_tools_generate_cmst.sh" beforeDir="false" afterPath="$PROJECT_DIR$/caseForShells/shells/composer_tools_generate_cmst.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssh-root.sh" beforeDir="false" afterPath="$PROJECT_DIR$/caseForShells/ssh-root.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userfull_shells_g.sh" beforeDir="false" afterPath="$PROJECT_DIR$/caseForShells/userfull_shells_g.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userfull_shells_lnmp-init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/caseForShells/userfull_shells_lnmp-init.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extBaseTenArithmetic/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extBaseTenArithmetic/run.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/extOthers/java/myHome_myFirstJavaProjects/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/.web.swp" beforeDir="false" afterPath="$PROJECT_DIR$/extOthers/java/myHome_myFirstJavaProjects/WEB-INF/.web.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/.web.xml.swp" beforeDir="false" afterPath="$PROJECT_DIR$/extOthers/java/myHome_myFirstJavaProjects/WEB-INF/.web.xml.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/extOthers/java/myHome_myFirstJavaProjects/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/WEB-INF/webxml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/extOthers/java/myHome_myFirstJavaProjects/WEB-INF/webxml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casesPhper/java/myHome_myFirstJavaProjects/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/extOthers/java/myHome_myFirstJavaProjects/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +18,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extBaseTenArithmetic/DFS.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="55" selection-start-line="55" selection-start-column="2" selection-end-line="56" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extBaseTenArithmetic/run.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/extBaseTenArithmetic/README.TXT" />
+        <option value="$PROJECT_DIR$/extBaseTenArithmetic/DFS.php" />
+        <option value="$PROJECT_DIR$/extBaseTenArithmetic/run.php" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="157" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="742" />
@@ -73,6 +71,11 @@
               <item name="MyLibFuncBasicAt2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="myLibFuncBasicAt2020" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyLibFuncBasicAt2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLibFuncBasicAt2020" type="462c0819:PsiDirectoryNode" />
+              <item name="extBaseTenArithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,6 +88,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/extOthers" />
+      <recent name="$PROJECT_DIR$/caseForShells" />
+      <recent name="$PROJECT_DIR$/casesPhper" />
+      <recent name="$PROJECT_DIR$/phpCases" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,15 +119,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619342528364</updated>
-      <workItem from="1619342529744" duration="286000" />
+      <workItem from="1619342529744" duration="817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286000" />
+    <option name="totallyTimeSpent" value="817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
@@ -155,6 +167,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/caseForShells/ssh-root.sh">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casesPhper/phpDateFunctions/DateUserfullFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-895" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extBaseTenArithmetic/README.TXT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extBaseTenArithmetic/DFS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="55" selection-start-line="55" selection-start-column="2" selection-end-line="56" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extBaseTenArithmetic/run.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
